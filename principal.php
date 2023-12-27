@@ -9,7 +9,7 @@ if (isset($_SESSION['idUsuario'])) {
     // Dados de conexão com o MySQL
     $host = 'localhost'; // Endereço do servidor MySQL (geralmente é localhost)
     $username = 'root'; // Nome de usuário do MySQL
-    $password = 'Zeylindo1@'; // Senha do MySQL
+    $password = ''; // Senha do MySQL
     $database = 'formulario-davi'; // Nome do banco de dados
 
     // Criando a conexão com o MySQL
